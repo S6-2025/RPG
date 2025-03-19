@@ -11,7 +11,7 @@ public class Personagem {
   }
 
 @Override
-public String  toString(){
+public String toString(){
     return "Nome"  + nome + "Força" + forca + "Vida" + vida;
   }
 }
